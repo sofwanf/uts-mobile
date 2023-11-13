@@ -20,7 +20,7 @@ export default Profil;
 const styles = StyleSheet.create({
   input: {
     height: 50,
-    backgroundColor: 'gray',
+    backgroundColor: '#fff',
     marginBottom: 20,
     borderRadius: 20,
     color: 'black',
